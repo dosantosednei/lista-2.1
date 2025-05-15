@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\lista 2 exercicio 8\lista 2 exercicio 8\bin\Debug\lista 2 exercicio 8.exe.config
+C:\Users\aluno\source\repos\lista 2 exercicio 8\lista 2 exercicio 8\bin\Debug\lista 2 exercicio 8.exe
+C:\Users\aluno\source\repos\lista 2 exercicio 8\lista 2 exercicio 8\bin\Debug\lista 2 exercicio 8.pdb
+C:\Users\aluno\source\repos\lista 2 exercicio 8\lista 2 exercicio 8\obj\Debug\lista 2 exercicio 8.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\lista 2 exercicio 8\lista 2 exercicio 8\obj\Debug\lista 2 exercicio 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\lista 2 exercicio 8\lista 2 exercicio 8\obj\Debug\lista 2 exercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\lista 2 exercicio 8\lista 2 exercicio 8\obj\Debug\lista 2 exercicio 8.exe
+C:\Users\aluno\source\repos\lista 2 exercicio 8\lista 2 exercicio 8\obj\Debug\lista 2 exercicio 8.pdb
