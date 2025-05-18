@@ -1,0 +1,7 @@
+C:\Users\Miche\source\repos\lista 2 exercicio 4\lista 2 exercicio 4\bin\Debug\lista 2 exercicio 4.exe.config
+C:\Users\Miche\source\repos\lista 2 exercicio 4\lista 2 exercicio 4\bin\Debug\lista 2 exercicio 4.exe
+C:\Users\Miche\source\repos\lista 2 exercicio 4\lista 2 exercicio 4\bin\Debug\lista 2 exercicio 4.pdb
+C:\Users\Miche\source\repos\lista 2 exercicio 4\lista 2 exercicio 4\obj\Debug\lista 2 exercicio 4.csproj.AssemblyReference.cache
+C:\Users\Miche\source\repos\lista 2 exercicio 4\lista 2 exercicio 4\obj\Debug\lista 2 exercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\Miche\source\repos\lista 2 exercicio 4\lista 2 exercicio 4\obj\Debug\lista 2 exercicio 4.exe
+C:\Users\Miche\source\repos\lista 2 exercicio 4\lista 2 exercicio 4\obj\Debug\lista 2 exercicio 4.pdb
