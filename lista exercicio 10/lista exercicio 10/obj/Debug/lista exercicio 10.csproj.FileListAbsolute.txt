@@ -1,0 +1,7 @@
+C:\Users\Miche\source\repos\lista exercicio 10\lista exercicio 10\bin\Debug\lista exercicio 10.exe.config
+C:\Users\Miche\source\repos\lista exercicio 10\lista exercicio 10\bin\Debug\lista exercicio 10.exe
+C:\Users\Miche\source\repos\lista exercicio 10\lista exercicio 10\bin\Debug\lista exercicio 10.pdb
+C:\Users\Miche\source\repos\lista exercicio 10\lista exercicio 10\obj\Debug\lista exercicio 10.csproj.AssemblyReference.cache
+C:\Users\Miche\source\repos\lista exercicio 10\lista exercicio 10\obj\Debug\lista exercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\Miche\source\repos\lista exercicio 10\lista exercicio 10\obj\Debug\lista exercicio 10.exe
+C:\Users\Miche\source\repos\lista exercicio 10\lista exercicio 10\obj\Debug\lista exercicio 10.pdb
